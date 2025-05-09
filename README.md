@@ -8,3 +8,4 @@ WeatherNow is a simple weather lookup application built with vanilla JavaScript,
 - Displays current temperature, condition, and weather icon
 - Shows recent search history
 - Error handling for invalid city names
+- Responsive and clean UI
