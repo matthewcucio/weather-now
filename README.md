@@ -4,7 +4,7 @@ WeatherNow is a simple weather lookup application built with vanilla JavaScript,
 
 ## 🚀 Features
 
-- Search weather by city
+- 🔍 **Search by City** – Enter a city to get the current weather instantly.
 - Displays current temperature, condition, and weather icon
 - Shows recent search history
 - Error handling for invalid city names
